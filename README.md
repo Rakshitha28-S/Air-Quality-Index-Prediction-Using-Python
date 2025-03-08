@@ -1,2 +1,2 @@
-# Air-quality-Index-Prediction-Week-1
+# Air-quality-Index-Prediction-model using python
 This repo is for training
